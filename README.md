@@ -3,24 +3,23 @@
 Embedded Arcade Gaming System using Energia board, LCD, and stick controller
 
 ## Description
+ 2D scroll Embedded Arcade game on 2x16 LCD <br/>
+ You will control the character to jump over the obstacle. You will get bomb fir break certain obstacle.<br/>
+ Gameove if you collide to obstacle.<br/>
+
+## Getting Started
 
 ###    
 sket5_mile4.ino : main <br/>
 PlayerAction.ino : control player's action, bomb and obstacle behavior.<br/>
 RefreshScreen : display position of player, obstacle, and bomb.<br/>
 
-## Getting Started
-
 ### Dependencies
 
-* Energia 1.8
 * Windows 10
 
 ### Installing
-
-* set sket5_mile4 as main
-
-
+* Energia 1.8
 
 ## Authors
 
