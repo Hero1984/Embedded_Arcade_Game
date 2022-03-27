@@ -1,5 +1,5 @@
 
-# Embedded_Arcade_Game
+# Embedded System:Arcade Game with LCD
 Embedded Arcade Gaming System using Energia board, LCD, and stick controller
 
 ## Description
