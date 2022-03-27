@@ -5,21 +5,21 @@ Embedded Arcade Gaming System using Energia board, LCD, and stick controller
 ## Description
 
 ###    
-sket5_mile4.ino : main 
-PlayerAction.ino : control player's action, bomb and obstacle behavior.
-RefreshScreen : display position of player, obstacle, and bomb
+sket5_mile4.ino : main <br/>
+PlayerAction.ino : control player's action, bomb and obstacle behavior.<br/>
+RefreshScreen : display position of player, obstacle, and bomb.<br/>
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Energia 1.8
+* Windows 10
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* set sket5_mile4 as main
+
 
 ### Executing program
 
@@ -31,14 +31,10 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+ Hiroaki Nakahara
 
 ## Version History
 
@@ -46,7 +42,6 @@ Contributors names and contact info
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
