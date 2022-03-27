@@ -21,16 +21,6 @@ RefreshScreen : display position of player, obstacle, and bomb.<br/>
 * set sket5_mile4 as main
 
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
 
 ## Authors
 
@@ -39,7 +29,7 @@ code blocks for commands
 ## Version History
 
 ## License
-
+ 
 ## Acknowledgments
 
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
