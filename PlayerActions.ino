@@ -1,3 +1,5 @@
+//control player's action, bomb and obstacle behavior.
+
 #include "OneMsTaskTimer.h" //already in system library, ""=> user defined 
 
 enum ActionState{GameStart, Wait, MoveForward, MoveBackward, Jump};
